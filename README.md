@@ -4,7 +4,7 @@ you can count the rest of the time and date that how much is left -->
 
 
 
-# [Todo-App](https://zippy-kitsune-2c37d4.netlify.app/)
+# [Timer-App](https://zippy-kitsune-2c37d4.netlify.app/)
 
 <h3>
   This is a Todo-App which can be used to track the daily work, you can easily track your work with the help of this.
